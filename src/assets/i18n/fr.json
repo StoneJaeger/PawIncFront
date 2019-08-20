@@ -1,0 +1,77 @@
+{
+  "WELCOME": "Bienvenu au",
+  "HOME": {
+    "HOME": "Home",
+    "ABOUT": "About",
+    "ADD_BUCKET_ITEM": "Add a bucket list item",
+    "YOUR_BUCKET_LIST": "Your bucket list",
+    "ADD_ITEM_BTN": "Add item",
+    "USE_THIS_FORM": "Use this form below to add a new bucket list goal. What do you want to do"
+  },
+  "USER": {
+    "LOGIN": "S'identifier",
+    "LOGOUT": "Connectez - Out",
+    "EMAIL": "Email",
+    "PASSWORD": "Mot de passe",
+    "REMEMBER_ME": "Souviens-toi de moi",
+    "INVALID_EMAIL_MESSAGE": "S'il vous plaît, mettez une adresse email valide",
+    "EMAIL_REQUIRED_MESSAGE": "Email est requis",
+    "PASSWORD_REQUIRED_MESSAGE": "Mot de passe requis"  
+  },
+  "MENU": {
+    "DASHBOARD": "Tableau de bord",
+    "LOGIN": "S'identifier",
+    "USER-PROFILE": "Profil de l'utilisateur",
+    "TABLE-LIST": "Liste de table",
+    "LOGS": "Les journaux",
+    "TYPOGRAPHY": "Typographie",
+    "ICONS": "Les icônes",
+    "MAPS": "Plans",
+    "NOTIFICATIONS": "Les notifications",
+    "LOGOUT": "Connectez - Out",
+    "USERS": "Utilisateurs"
+  },
+  "MESSAGES": {
+    "EMAIL_PASSWORD_REQUIRED": "Email et mot de passe sont requis",
+    "WELCOME": "Bienvenue",
+    "LOGS_LOADED_SUCCESSFULLY": "Journaux chargés avec succès",
+    "ERROR_LOADING_LOGS": "Erreur lors du chargement des journaux",
+    "ARE_YOU_SURE": "Êtes-vous sûr?",
+    "DELETE_USER": "Vous voulez supprimer cet utilisateur?",
+    "REQUIRED_FIELD": "Champs requis",
+    "INVALID_EMAIL": "Email non valide",
+    "SAVE": "Enregistrer",
+    "UPDATE": "Mise à jour",
+    "CANCEL": "Annuler"
+  },
+  "PAGINATOR": {
+    "ITEMS_PER_PAGE": "Objets par page",
+    "NEXT_PAGE": "Page suivante",
+    "PREVIOUS_PAGE": "Page précédente",
+    "LAST_PAGE": "Dernière page",
+    "FIRST_PAGE": "Première page",
+    "OF": "de"
+  },
+  "LOGS_TABLE": {
+    "FILTER": "Filtre",
+    "TITLE": "Journaux d'applications",
+    "HEADER_SOFT_NAME": "Nom du logiciel",
+    "HEADER_TYPE": "Type",
+    "HEADER_MESSAGE": "Message",
+    "HEADER_EMAIL": "Email",
+    "HEADER_CREATED_AT": "Créer à"
+  },
+  "USERS_TABLE": {
+    "TITLE": "Liste blanche des utilisateurs",
+    "ADD_USER_TITLE": "Ajouter un nouvel utilisateur",
+    "EDIT_USER_TITLE": "Modifier utilisateur",
+    "ADD_USER": "Nouvel utilisateur",
+    "EDIT_USER": "Modifier",
+    "DELETE_USER": "Effacer",
+    "ROLE": "Rôle",
+    "ACTIVE": "Active",
+    "ACTIONS": "Actes",
+    "USER_ADDED": "Utilisateur ajouté",
+    "USER_UPDATED": "Utilisateur mis à jour"
+  }
+}
